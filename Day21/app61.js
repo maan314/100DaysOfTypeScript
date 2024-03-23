@@ -8,5 +8,5 @@ var vehicle_type;
     vehicle_type[vehicle_type["Bike"] = 2] = "Bike";
 })(vehicle_type || (vehicle_type = {}));
 //Showing one of vehicle from list
-console.log(vehicle_type.Car);
+console.log("nmbr:", vehicle_type.Car);
 //we are just checking what number the car category hold in list

@@ -6,7 +6,7 @@ Explain & TIP: Enums are like special lists in your code that help you categoriz
 enum vehicle_type {
     Car,
     Truck,
-    Bike
+    Bike,
 }
 //Showing one of vehicle from list
 console.log(vehicle_type.Car);
