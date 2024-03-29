@@ -8,6 +8,6 @@ let car2 = {
 }
 //adding property
 car2.color = "Red";
-car2.year = "2022";
+car2.year = 2022;
 
 console.log(car2);
