@@ -53,3 +53,19 @@ switch (arg) {
     default:
         alert('An unknown value');
 }
+
+// let a1 = parseInt(prompt('a?', ''));
+// switch (a1) {
+//     case 0:
+//         alert( 0 )
+//         break;
+//     case 1:
+//         alert( 1 )
+//         break;
+//     case 2:
+//     case 3:
+//         alert('2,3')
+//         break;
+//     default:
+//         break;
+// }
